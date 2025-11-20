@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/blue_box_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MedActivity"
+    android:background="@color/bg">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/gmi"
+                android:layout_width="216dp"
+                android:layout_height="91dp"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="45dp"
+                app:srcCompat="@drawable/gmi" />
+
+            <!-- department name -->
+            <TextView
+                android:layout_width="330dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="45dp"
+                android:text="ELECTRICAL ENGINEERING"
+                android:textAlignment="center"
+                android:textColor="@color/red"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <!-- container for expandable list -->
+            <LinearLayout
+                android:id="@+id/expandable_list_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="8dp" />
+
+            <Button
+                android:id="@+id/checkBtn"
+                android:layout_width="250dp"
+                android:layout_height="75dp"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="45dp"
+                android:lineSpacingExtra="3dp"
+                android:backgroundTint="@color/red"
+                android:text="CHECK YOUR\nELIGIBILITY NOW!"
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                app:cornerRadius="10dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

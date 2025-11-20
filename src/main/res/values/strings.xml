@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">miniproject android</string>
+
+    <string name="foundation_degree">
+        \n
+        • Bachelor of Chemical Engineering with Honours\n
+        • Bachelor of Civil Engineering with Honours\n
+        • Bachelor of Electrical &amp; Electronics Engineering with Honours\n
+        • Bachelor of Mechanical Engineering with Honours\n
+        • Bachelor of Petroleum Engineering with Honours\n
+        • Bachelor of Computer Engineering with Honours\n
+        • Bachelor of Science (Hons) in Applied Chemistry\n
+        • Bachelor of Science (Hons) in Petroleum Geoscience\n
+        • Bachelor of Materials Engineering with Honours
+    </string>
+
+    <string name="gapp">
+        \n
+        • German Language from B2 - TestDAF\n
+        • Intensive Intercultural and Study Skill Workshop\n
+        • Advice on study placement\n
+        • Technical German\n
+        • Internship (depends on placement)
+    </string>
+
+    <string name="application">
+        \n
+        • Students may apply via MARA Young Talent Development\n
+          \tProgram (YTDP)\n
+        • Students may self-finance by applying online
+    </string>
+
+    <string-array name="med_course">
+        <item>Diploma in Engineering Technology (Industrial Design)</item>
+        <item>Diploma in Industrial Quality Engineering Technology</item>
+        <item>Diploma in Innovative Product Design Engineering Technology</item>
+        <item>Diploma of Mechanical Engineering Technology (CNC Precision)</item>
+        <item>Diploma in Engineering Technology (Machine Tools Maintenance)</item>
+        <item>Diploma of Mechanical Engineering Technology (Manufacturing)</item>
+        <item>Diploma in Precision Tooling Engineering Technology</item>
+    </string-array>
+
+    <string-array name="med_desc">
+        <item>The industrial design programme prepares students to be creative, practical, aesthetics-focused, collaborative problem-solver, and to conduct the design process from project brief to design implementation. Students not only create and develop design work but each creation of design is optimized in its function, value and appearance. Industrial Design adapts into the changing and developing technology by supporting the manufacturing and engineering industries in areas like digital design, 3D modeling, prototyping &amp; manufacturing processes. The students is expected to acquire presentations, problem-solving, communication, documentation, and organizational skills during the phases of the design process through industry collaborations and studio projects.</item>
+        <item>Focuses on the knowledge and skills aspects in the field of inspection and quality engineering required by the industry. The program aims to produce skilled, competitive, scientifically-minded, creative, competent, and capable human resources in solving quality issues and problems at a workplace. The program develop students with the key skills in the field of quality such as aspects of planning, implementation, checking and corrective action on the problems faced by the industry in achieving their targets. Students are exposed to the standard systems as well as continuous improvement methods based on Total Quality Management (TQM).</item>
+        <item>Focuses on product design concepts, presentation of new product ideas and advanced manufacturing applications for production. The programme provides a thorough understanding of design principles, manufacturing processes, and manufacturing technologies for which the activities involve the entire product lifecycle, from the identification of a market opportunity or requirements, through design, testing and manufacture. After the attainment of the technical foundation, the core competencies in the programme will be facilitated by a wide range of technology disciplines namely rapid prototyping, ergonomics and design, product design for manufacturing, and advanced manufacturing.</item>
+        <item>The Diploma in CNC Precision Technology (CPT) program emphasizes fundamental knowledge and skills in Computer Numerical Control (CNC) precision machining technologies and processes. The program covers various applications of CNC precision machining, including CNC milling 2 &amp; 3 axis, CNC milling 5 axis, CNC turning, and CNC grinding, as well as the concept of CNC machining and machine setup.</item>
+        <item>Driven by a number of factors, including the migration from manual to CNC machine tools, higher production rates and higher quality requirements in which reducing machine tool downtime and assuring quality have become increasingly important as the demand for higher production rates and closer tolerance continue to grow. Other that learning about how each part of the machine functions in relation to the overall machine process, the students will be equipped to develop and conduct a preventive maintenance programmes that will maximize the machine tool performance.</item>
+        <item>Manufacturing System (MFS) is a program that emphasizes the interrelationships between manufacturing equipment, processes and controls, and their integration into production factories. The combination of technological knowledge of high-tech production systems and knowledge of production processes is essential for manufacturing organizations to be efficient, innovative and sustainable in the increasingly competitive markets.</item>
+        <item>Focused on three main manufacturing skills based on Tool and Die, sheet metal and Plastic Engineering where the participant/student will utilize various skills such as design in 2D &amp; 3D design, state of the art engineering analysis, modern fabrication and manufacturing, maintenances and overall production. The students will use their creativity to develop various designs based on current or future consumers-based product which require them to be detail oriented and have an interest in mechanical processes. Computer-aided design (CAD) software and Computer-aided manufacturing (CAM) will be utilized to make sure the participant/student are capable to meet Malaysia and others nations standards in their pursuits in mechanical engineering. </item>
+    </string-array>
+
+    <string-array name="eed_course">
+        <item>Diploma of Mechatronics Engineering Technology</item>
+        <item>Diploma of Engineering Technology (Instrumentation &amp; Control)</item>
+        <item>Diploma of Electronics Engineering Technology (Computer)</item>
+        <item>Autotronics Engineering Technology</item>
+        <item>Diploma in Engineering Technology (Sustainable Energy &amp; Power Distribution)</item>
+    </string-array>
+
+    <string-array name="eed_desc">
+        <item>Mechatronics engineering technology is a unique synergistic integration of the three discipline areas namely mechanical engineering, electronics, and intelligent computer control to address the challenges of designing and deploying smart technologies. This unique multidisciplinary course offers you the opportunity to study the most exciting aspects of mechanical designs, electronics and control technology into the design and manufacture of intelligent systems. It is the cutting-edge of creating smarter products, devices and processes. Mechatronic components consider to be integrated in the industrial internet of things (IIoT) environment which is one of the keys enabling technologies for industry 4.0.</item>
+        <item>Provides students with sound theoretical and practical training in the operation and maintenance of automated process control and measurement systems to maintain a consistent product output. It is the art and science of measurement and control of process variables within a production, laboratory, or manufacturing area in the instance of typical process variables namely temperature, pressure, level and flow of industrial reactors may be controlled.</item>
+        <item>Equips students with a profound knowledge and skills of electronic circuits and systems knowledge of telecommunications and computer controlled systems needed to meet the 21 st century industrial demands . The student will be able to design and build electronic and computer based systems and thus, preparing them for work in the high-tech industry. Students will acquire more in-depth knowledge and practical application of microprocessor, interface design, micro controller systems, local area network, radio frequency (RF), telecommunication system, data communications system and network administration. In addition, the programme also integrates communicative and thinking skills, project management, entrepreneurship, learning and interpersonal skills so that the students are prepared to face the rapid changes of IT technology.</item>
+        <item>Referred to as modern automotive technology and also commonly known as Automotive Electronic. Autotronics is the combination of automobile and electronics while hybrid refers to technology that uses two or more distinct power sources to move the vehicle. It deals with computer controlled motor vehicle systems such as Engine Control Unit (ECU-airbag, engine, ABS) , engine management , electronic transmission, GPS-based navigation system, stability management system, instrument ation, infotainment, etc.</item>
+        <item>This programme provides knowledge and hands-on skills for designing, installing, operating and enhancing sustainable energy systems that combine energy generation, distribution and utilization that caters to the demands of technologies in green energy and electrical power for application and services in building, industry and transportation. The student will acquire the skills in installation, testing &amp; commissioning, and maintenance to ensure system safety, reliability and efficiency for renewable energy technologies, particularly, solar and wind power, which are the fastest growing sources of electricity besides geothermal and biomass systems. The requirements for certifying the distributed renewable energy systems will also be emphasized to ensure that the graduate is prepared for system installer certification which is require by the Sustainable Energy Development Authority (SEDA).</item>
+    </string-array>
+
+    <string-array name="cid_course">
+        <item>Diploma in Software Engineering</item>
+        <item>Diploma in Cyber Security Technology</item>
+        <item>Diploma in Creative Multimedia</item>
+    </string-array>
+
+    <string-array name="cid_desc">
+        <item>Designed to develop the competencies required in the software development process that involves the synchronized application of a broad spectrum of defect prevention and detection strategies in order to reduce software development risks, time, and costs.</item>
+        <item>To develop the competencies required in the security of overall network architecture which includes design and write computer programs, use and maintain databases, configure and integrate various network security tools and install and secure computer networks. It emphasizes on the security of overall network architecture, configuration and integration of various network security tools, which includes open source the proprietary software.</item>
+        <item>Diploma programme that familiarizes students with overall process of producing digital work art, particularly in 2D and 3D. It emphasizes on nurturing creative young minds of Malaysian youth to the workflow of media during pre-production stage, production and post-production stages, including sketching, drawing, modelling, texturing, animating and rendering of 2D and 3D animation work piece. Students will be actively exposed in creative design and animation, with state-of-the-art software and hardware for producing short multimedia animation, together with narration using industry-standard recording studio for sound editing and mixing. The programme also nurtures the students’ awareness as digital entrepreneurs, promotes thinking and problem-solving skills, and life-long learning.</item>
+    </string-array>
+
+    <string-array name="science">
+        <item>SUBJECT</item>
+        <item>Akuakultur &amp; Haiwan Rekreasi</item>
+        <item>Asuhan &amp; Pendidikan Awal Kanak-Kanak</item>
+        <item>Biologi</item>
+        <item>Fizik</item>
+        <item>Gerontologi Asas dan Geriatrik</item>
+        <item>Grafik Komunikasi Teknikal</item>
+        <item>Hiasan Dalaman</item>
+        <item>Katering dan Penyajian</item>
+        <item>Kerja Paip Domestik</item>
+        <item>Kimia</item>
+        <item>Kimpalan Arka dan Gas</item>
+        <item>Landskap dan Nurseri</item>
+        <item>Lukisan Kejuruteraan</item>
+        <item>Menservis Automobil</item>
+        <item>Menservis Motosikal</item>
+        <item>Menservis Peralatan Elektrik Domestik</item>
+        <item>Menservis Peralatan Penyejukan &amp; Penyaman Udara</item>
+        <item>Pembinaan Domestik</item>
+        <item>Pembuatan Perabot</item>
+        <item>Pemprosesan Makanan</item>
+        <item>Pendawaian Domestik</item>
+        <item>Pengajian Kejuruteraan Awam</item>
+        <item>Pengajian Kejuruteraan Mekanikal</item>
+        <item>Pengajian Keusahawanan</item>
+        <item>Penjagaan Muka dan Penggayaan Rambut</item>
+        <item>Prinsip Perakaunan</item>
+        <item>Produksi Multimedia</item>
+        <item>Produksi Reka Tanda</item>
+        <item>Reka Bentuk Grafik Digital</item>
+        <item>Rekaan dan Jahitan Pakaian</item>
+        <item>Sains</item>
+        <item>Sains Komputer</item>
+        <item>Sains Pertanian</item>
+        <item>Sains Rumah Tangga</item>
+        <item>Sains Sukan</item>
+        <item>Sains Tambahan Sejarah dan Pengurusan Seni</item>
+        <item>Tanaman Makanan</item>
+    </string-array>
+
+    <string-array name="other">
+        <item>SUBJECT</item>
+        <item>Al-Adab Wa Al-Balaghah</item>
+        <item>Al-Lughah Al-Arabiah Al-Mu’asirah</item>
+        <item>Al-Syariah</item>
+        <item>Alat Muzik Utama</item>
+        <item>Apresiasi Tari</item>
+        <item>Asas Kelestarian</item>
+        <item>Aural dan Teori Muzik</item>
+        <item>Bahasa Arab / Bahasa Arab Tinggi</item>
+        <item>Bahasa Cina</item>
+        <item>Bahasa Iban</item>
+        <item>Bahasa Kadazandusun</item>
+        <item>Bahasa Punjabi</item>
+        <item>Bahasa Semai</item>
+        <item>Bahasa Tamil</item>
+        <item>Bible Knowledge</item>
+        <item>Ekonomi</item>
+        <item>Geografi</item>
+        <item>Hifz Al Quran</item>
+        <item>Kesusasteraan Cina</item>
+        <item>Kesusasteraan Inggeris</item>
+        <item>Kesusasteraan Melayu Komunikatif</item>
+        <item>Kesusasteraan Tamil</item>
+        <item>Koreografi Tari</item>
+        <item>Lakonan</item>
+        <item>Lukisan </item>
+        <item>Maharat Al Quran</item>
+        <item>Manahil Al-‘Ulum Al-Islamiah</item>
+        <item>Matematik Tambahan</item>
+        <item>Multimedia Kreatif</item>
+        <item>Pendidikan Al-Quran dan Al-Sunnah</item>
+        <item>Pendidikan Islam</item>
+        <item>Pendidikan Moral</item>
+        <item>Pendidikan Muzik</item>
+        <item>Pendidikan Seni Visual</item>
+        <item>Pendidikan Syari’ah Islamiah</item>
+        <item>Penulisan Skrip</item>
+        <item>Perniagaan</item>
+        <item>Produksi Seni Persembahan</item>
+        <item>Reka Bentuk Grafik</item>
+        <item>Reka Bentuk Industri</item>
+        <item>Reka Bentuk Kraf</item>
+        <item>Reka Cipta</item>
+        <item>Seni Halus 2D</item>
+        <item>Seni Halus 3D</item>
+        <item>Sinografi</item>
+        <item>Tarian</item>
+        <item>Tasawwur Islam</item>
+        <item>Turath Al-Quran dan Al-Sunnah</item>
+        <item>Turath Bahasa Arab</item>
+        <item>Turath Dirasat Islamiah</item>
+        <item>Usul Al-Din</item>
+    </string-array>
+
+    <string name="address"><u>Jalan Ilmiah, Taman Universiti, 43000, Kajang, Selangor, Malaysia</u></string>
+
+    <string name="gmi">
+        In 1991, German-Malaysian Institute (GMI), a hub for advanced skills training was established. GMI provides a comprehensive and well-balanced training of practical and theoretical. The institute offers a broad-based engineering education, with opportunities for specialization and self-directed learning and development.
+        \n\nGMI offers diverse training programmes and services comprising full time diploma programmes, a pre-university programme (A-Level), skills upgrading technical courses, train-the-trainers programmes, and industrial consultancy and services.
+        \n\nThe birth of GMI was the outcome of a joint venture between the Governments of Malaysia and Germany. GMI is governed by a 10-member Board of Directors comprising representatives from both governments, plus public and industrial representatives. The institution was set up as a Company Limited by Guarantee whereby the founders are Majlis Amanah Rakyat (MARA) and the Malaysian German Chamber of Commerce and Industry (MGCC), and its implementing agencies are MARA and Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH (formerly known as German Technical Corporation or GTZ). GMI had its first student enrollment in 1992 and the growing number of enrollment is prevalent.
+    </string>
+
+    <string name="tagline">
+        "This is German-Malaysian Institute,
+        \nit is all about applied science, the rest is technology."
+    </string>
+</resources>
